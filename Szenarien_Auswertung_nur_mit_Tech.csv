@@ -1,0 +1,25 @@
+﻿SzenarioNr;Szenario;Kategorie;Bewertung;Technologiebezug
+1;Technologiegestützte, frei zugängliche und individualisierte Bildung;Bildung & Wissen;0.46;x
+2;Freies und ungezwungenes Lernen als gemeinschaftliche Alltagspraxis;Bildung & Wissen;0.97;
+3;Klar strukturierte Bildungsinstitutionen mit individueller Entfaltung;Bildung & Wissen;1.19;
+13;Hoch technologisierte und effiziente Nahrungsmittelproduktion;Ernährung & Landwirtschaft;0.39;x
+14;Stark pflanzenbasierte Ernährung mit hohem Tierwohl;Ernährung & Landwirtschaft;1.08;
+12;Nahrung als Teil lebendiger und widerstandsfähiger Kreisläufe;Ernährung & Landwirtschaft;1.57;
+11;Saisonal und regional verankerte Lebensmittelproduktion;Ernährung & Landwirtschaft;1.58;
+34;Datengetriebene Präzisionsgesundheit mit kontinuierlicher Analyse;Gesundheit & Wohlbefinden;-0.24;x
+33;Gesundheitsverständnis als Zusammenspiel von Körper, Psyche und Umfeld;Gesundheit & Wohlbefinden;1.27;
+32;Öffentlich finanziertes Gesundheitssystem mit hochwertigem Personal;Gesundheit & Wohlbefinden;1.39;
+17;Menschen entscheiden, Künstliche Intelligenz führt aus;KI;-0.21;x
+18;Bewusster Rückzug aus digitaler Dauerpräsenz und Künstlicher Intelligenz;KI;1.21;
+15;Ein gesunder Planet dank technologischem Fortschritt und Energiereichtum;Klima, Umwelt, Ressourcen, Energie;0.57;x
+16;Florierende Natur dank bewusstem Konsum und verantwortungsvoller Produktion;Klima, Umwelt, Ressourcen, Energie;1.6;
+30;In 80 Minuten um die Welt;Mobilität & Reisen;0.17;x
+31;Bewusst reduziertes und vertieftes Reisen;Mobilität & Reisen;1.13;
+37;Hohe demokratische Bürgerbeteiligung dank digitaler Infrastruktur;Politisches System (Schweiz);0.79;x
+35;Verteilte Macht und weniger Korruption durch geloste Bevölkerungsräte;Politisches System (Schweiz);0.88;
+36;Starke direkte Demokratie mit minimalem Staatsapparat;Politisches System (Schweiz);1.02;
+24;Freie Marktwirtschaft mit unternehmerischer Entfaltung;Wirtschaft und Arbeit;0.63;
+25;Erhöhte Produktivität dank Automatisierung schafft Zeitwohlstand;Wirtschaft und Arbeit;0.67;x
+22;Kreislaufwirtschaft im Dienst von Umwelt und Gemeinwohl;Wirtschaft und Arbeit;1.34;x
+23;Geldfreie Wirtschaft durch gesellschaftliche Organisation und Kooperation;Wirtschaft und Arbeit;0.52;
+26;Wirtschaftliche Renaissance von lokalem Qualitäts-Handwerk;Wirtschaft und Arbeit;1.46;
